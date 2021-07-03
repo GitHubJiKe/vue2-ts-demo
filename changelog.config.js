@@ -16,10 +16,10 @@ module.exports = {
   questions: [
     "type",
     "scope",
-    "subject",
-    "body",
+    "subject"
+    // "body"
     // "breaking",
-    "issues"
+    // "issues"
     // "lerna"
   ],
   scopes: [],
