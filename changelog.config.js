@@ -17,12 +17,15 @@ module.exports = {
     "type",
     "scope",
     "subject"
-    // "body"
     // "breaking",
     // "issues"
     // "lerna"
   ],
-  scopes: [],
+  scopes: [
+    {
+      name: "component"
+    }
+  ],
   types: {
     chore: {
       description: "其他修改",
