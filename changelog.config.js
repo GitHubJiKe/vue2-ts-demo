@@ -21,11 +21,7 @@ module.exports = {
     // "issues"
     // "lerna"
   ],
-  scopes: [
-    {
-      name: "component"
-    }
-  ],
+  scopes: ["aaa"],
   types: {
     chore: {
       description: "其他修改",
